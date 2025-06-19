@@ -59,8 +59,8 @@
 - [ ] Requiere trabajo adicional
 **Tiempo total invertido:** 2.5 horas
 **Fecha de verificación:** 18/06/2025
-**Verificado por:** [Tu nombre]
+**Verificado por:** Ivan Martínez 
 ---
 ## ACCIONES PENDIENTES (si las hay)
 
-**Fecha límite para pendientes:** ___________
+**Fecha límite para pendientes:** 19/06/2025
