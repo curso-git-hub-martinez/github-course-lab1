@@ -11,7 +11,7 @@
 - [x] Estructura de proyecto implementada
 - [x] Commit inicial realizado
 **Evidencias:**
-- URL del repositorio: https://github.com/[tu-org]/github-course-lab1
+- URL del repositorio: https://github.com/curso-git-hub-martinez/github-course-lab1
 - SSH key configurada exitosamente
 - Archivo de configuración creado
 ### 2. Gestión de Colaboradores
@@ -19,26 +19,29 @@
 - [x] Roles y permisos configurados
 - [x] Documentación de colaboradores creada
 **Evidencias:**
-- Colaborador: [username del colaborador]
-- Rol asignado: Write
-- Estado de invitación: [Aceptada/Pendiente]
+- Colaborador: abigaloes
+- Rol asignado: trige
+- Estado de invitación: Pendiente
+- Colaborador: metalpark13
+- Rol asignado: write
+- Estado de invitación: Pendiente
 ### 3. Organización de Práctica
-- [x] Organización `curso-github-[apellido]` creada
+- [x] Organización curso-git-hub-martinez creada
 - [x] Teams configurados: developers, qa-testing
 - [x] Repositorio transferido a organización
 - [x] Permisos de teams asignados
 **Evidencias:**
-- URL de organización: https://github.com/[tu-org]
+- URL de organización: https://github.com/curso-git-hub-martinez
 - Teams activos: 2
-- Miembros totales: [número]
+- Miembros totales: 2
 ### 4. GitHub Pages
 - [x] GitHub Pages habilitado
 - [x] Sitio web publicado correctamente
 - [x] Página personalizada con información del curso
 - [x] Enlaces y contenido actualizado
 **Evidencias:**
-- URL del sitio: https://[tu-org].github.io/github-course-lab1
-- Tiempo de publicación: [tiempo]
+- URL del sitio: https://curso-git-hub-martinez.github.io/github-course-lab1/
+- Tiempo de publicación: 1 minuto
 - Página accesible: Sí
 ### 5. Perfil Profesional
 - [x] Repositorio de perfil creado
@@ -46,7 +49,7 @@
 - [x] Estadísticas de GitHub integradas
 - [x] Repositorios destacados configurados
 **Evidencias:**
-- URL del perfil: https://github.com/[tu-username]
+- URL del perfil: https://github.com/ivanmplsc
 - README con información profesional
 - Badges y estadísticas funcionando
 ### 6. GitHub Gist
@@ -54,9 +57,9 @@
 - [x] Gist de cheat sheet GitHub
 - [x] Referencias en documentación del proyecto
 **Evidencias:**
-- Gist 1: [URL del gist de scripts]
+- Gist 1: https://gist.github.com/ivanmplsc
 - Gist 2: [URL del gist de cheat sheet]
-- Total de archivos en gists: [número]
+- Total de archivos en gists: 2
 ### 7. Secretos y Seguridad
 - [x] Secretos del repositorio configurados
 - [x] Template de configuración creado
@@ -68,16 +71,16 @@
 - Documentación de buenas prácticas
 ---
 ## MÉTRICAS DEL LABORATORIO
-| Métrica | Valor |
-|---------|-------|
-| Repositorios creados | [1] |
-| Commits realizados | [4] |
-| Archivos creados | [5] |
-| Colaboradores agregados | [2] |
-| Organizations creadas | 1 |
-| Teams configurados | 2 |
-| Gists públicos | 2 |
-| Páginas web publicadas | 1 |
+| Métrica                       | Valor |
+|-------------------------------|-------|
+| Repositorios creados 		|   1   |
+| Commits realizados 		|   12  |
+| Archivos creados 		|   5   |
+| Colaboradores agregados 	|   2   |
+| Organizations creadas 	|   1   |
+| Teams configurados 		|   2   |
+| Gists públicos 		|   2   |
+| Páginas web publicadas 	|   1   |
 ---
 ## APRENDIZAJES CLAVE
 ### Conceptos Técnicos
@@ -99,12 +102,6 @@
 3. **Integración:** Conectar con herramientas de desarrollo
 4. **Monitoreo:** Implementar alertas y notificaciones
 ---
-## PROBLEMAS ENCONTRADOS Y SOLUCIONES
-### Problema 1: [Descripción del problema]
-**Solución:** [Cómo se resolvió]
-### Problema 2: [Descripción del problema]
-**Solución:** [Cómo se resolvió]
----
 ## SUGERENCIAS PARA FUTUROS ESTUDIANTES
 1. **Tiempo:** Dedicar suficiente tiempo a la configuración inicial
 2. **Documentación:** Documentar cada paso durante el proceso
@@ -114,11 +111,11 @@
 ---
 ## RECURSOS ÚTILES CREADOS
 - **Repositorio principal:** https://github.com/curso-git-hub-martinez/github-course-lab1
-- **Sitio web:** https://github.com/curso-git-hub-martinez/github-course-lab1
+- **Sitio web:** https://curso-git-hub-martinez.github.io/github-course-lab1/
 - **Perfil GitHub:** https://github.com/ivanmplsc
 - **Organización:** https://github.com/orgs/curso-git-hub-martinez
 - **Gists útiles:** https://gist.github.com/ivanmplsc
-- **Documentación:** Disponible en directorio `/docs`
+- **Documentación:** Disponible en directorio "/docs"
 ---
 **Firma digital:** ivan martinez 
 **Fecha de entrega:** 18/06/2025
